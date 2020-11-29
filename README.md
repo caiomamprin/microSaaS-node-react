@@ -5,4 +5,4 @@ A simple microSaaS with Node.js and React.js(Um simpes microSaaS usando Node.js 
 This application will be stored on the AWS Amazon server até dia 28/12/2020.
 
 
-Encurtamento de URL é uma técnica utilizada na internet para transformar um endereço HTTP em um link mais curto. O encurtamento de URL ganhou destaque na internet com a popularização do Twitter, em que os usuários possuíam um limite de 140 caracteres para suas postagens. Assim, economizar caracteres com um encurtador de URL permitia transmitir mais informações por tuite. Além disso, links encurtados são mais agradáveis para a leitura, tornando o texto que contém o link mais limpo e legível.
+URL shortening is a technique used on the internet to turn an HTTP address into a shorter link. The shortening of URL gained prominence on the internet with the popularization of Twitter, in which users had a limit of 140 characters for their posts. Thus, saving characters with a URL shortener allowed to transmit more information per tweet. In addition, shortened links are more pleasant to read, making the text that contains the link cleaner and more readable.
